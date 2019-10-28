@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Fuel Dashboard</string>
+    <string name="action_settings">Settings</string>
+    <string name="Item">Item</string>
+    <string name="IDform">ID:</string>
+    <string name="item_posto">Item Posto</string>
+    <string name="item_litros">item litros</string>
+    <string name="item_valor">item_valor</string>
+    <string name="item_km">item km</string>
+    <string name="action_remover">action_remover</string>
+    <string name="remover">Remover</string>
+    <string name="Posto">Posto</string>
+    <string name="Valor">Valor</string>
+    <string name="Litros">Litros</string>
+    <string name="Adicionar">Adicionar</string>
+    <string name="KM">KM</string>
+</resources>
